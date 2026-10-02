@@ -1,6 +1,6 @@
 # 保險新人 AI 陪跑教練｜ZIP 下載
 
-[前往最新版下載頁](https://github.com/a0930121879-sys/insurance-newcomer-coach-download/releases/latest)
+[直接下載 0.9.1 ZIP](https://github.com/a0930121879-sys/insurance-newcomer-coach-download/releases/download/v0.9.1/insurance-newcomer-coach-0.9.1.zip)　｜　[查看版本說明](https://github.com/a0930121879-sys/insurance-newcomer-coach-download/releases/tag/v0.9.1)
 
 目前提供 0.9.1 內測版。ZIP 內有可安裝的 Codex skill、拜訪方法論、圖解式 PDF 策略報告規格及安裝說明。
 
