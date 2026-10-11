@@ -2,10 +2,13 @@
 
 目前版本：**0.9.2 內測版**。
 
+## 建議先看｜實際畫面安裝教學
+
+- [下載實際畫面速查圖卡](https://github.com/a0930121879-sys/insurance-newcomer-coach-download/releases/download/v0.9.2/insurance-newcomer-coach-real-screen-card.png)
+- [下載實際畫面 7 頁 PDF](https://github.com/a0930121879-sys/insurance-newcomer-coach-download/releases/download/v0.9.2/insurance-newcomer-coach-real-screen-guide.pdf)
 - [下載 Skill ZIP](https://github.com/a0930121879-sys/insurance-newcomer-coach-download/releases/download/v0.9.2/insurance-newcomer-coach-0.9.2.zip)
-- [下載安裝速查圖卡](https://github.com/a0930121879-sys/insurance-newcomer-coach-download/releases/download/v0.9.2/insurance-newcomer-coach-install-card.png)
-- [下載完整 PDF 指南](https://github.com/a0930121879-sys/insurance-newcomer-coach-download/releases/download/v0.9.2/insurance-newcomer-coach-install-guide.pdf)
-- [查看版本說明](https://github.com/a0930121879-sys/insurance-newcomer-coach-download/releases/tag/v0.9.2)
+
+[查看全部附件與版本說明](https://github.com/a0930121879-sys/insurance-newcomer-coach-download/releases/tag/v0.9.2)。
 
 ## 三步安裝
 
@@ -13,7 +16,7 @@
 2. 解壓 Skill ZIP，只將內層 `insurance-newcomer-coach` 資料夾放到個人 Skills 目錄：Windows 為 `%USERPROFILE%\.agents\skills\`，macOS 為 `~/.agents/skills/`。
 3. 重新開啟 App；在新對話輸入「請用 insurance-newcomer-coach 幫我做一份客戶經營策略 PDF」。客戶資料請用代稱。
 
-完整畫面流程、提問模板與功能說明見上方圖卡和 PDF。
+實際畫面圖解使用 OpenAI 官方下載頁、公開 GitHub Release 與受控的 Windows 檔案總管示範；macOS Finder 步驟以官方下載選單及文字路徑說明，未使用實機 Finder 截圖。
 
 ## 發佈範圍
 
